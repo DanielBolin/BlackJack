@@ -1,0 +1,10 @@
+C:\Users\天才黃柏霖\Desktop\BlackJack1\BlackJack1\bin\Debug\BlackJack1.exe.config
+C:\Users\天才黃柏霖\Desktop\BlackJack1\BlackJack1\bin\Debug\BlackJack1.exe
+C:\Users\天才黃柏霖\Desktop\BlackJack1\BlackJack1\bin\Debug\BlackJack1.pdb
+C:\Users\天才黃柏霖\Desktop\BlackJack1\BlackJack1\obj\Debug\BlackJack1.csproj.AssemblyReference.cache
+C:\Users\天才黃柏霖\Desktop\BlackJack1\BlackJack1\obj\Debug\BlackJack1.Properties.Resources.resources
+C:\Users\天才黃柏霖\Desktop\BlackJack1\BlackJack1\obj\Debug\BlackJack1.csproj.GenerateResource.cache
+C:\Users\天才黃柏霖\Desktop\BlackJack1\BlackJack1\obj\Debug\BlackJack1.csproj.CoreCompileInputs.cache
+C:\Users\天才黃柏霖\Desktop\BlackJack1\BlackJack1\obj\Debug\BlackJack1.exe
+C:\Users\天才黃柏霖\Desktop\BlackJack1\BlackJack1\obj\Debug\BlackJack1.pdb
+C:\Users\天才黃柏霖\Desktop\BlackJack1\BlackJack1\obj\Debug\BlackJack1.MainForm.resources
